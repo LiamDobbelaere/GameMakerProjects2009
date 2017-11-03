@@ -1,0 +1,5 @@
+Lost Penguin Unlimited -Jump Heights-
+
+Standard Jump: 3 blocks
+Blue Spring: 14 Blocks
+Green Spring: 20 Blocks
